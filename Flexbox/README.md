@@ -1,1 +1,1 @@
-small implementation of flexbox properties
+very simple navbar created to test the flexbox properties 
